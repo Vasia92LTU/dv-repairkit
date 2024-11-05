@@ -11,5 +11,6 @@
 
 🥇**DEPENDANCIES**🥇
 - ➕ skillcheck
+https://github.com/Vasia92LTU/skillchecks
 
 ![dv-repairkit](https://github.com/user-attachments/assets/fc10c360-3991-4ca2-8858-22e9c020d64f)
